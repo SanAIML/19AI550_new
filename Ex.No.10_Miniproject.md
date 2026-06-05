@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D/3D game collection of coins
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  05-06-2026                                                                          
+### REGISTER NUMBER : 212224240142
 ### AIM: 
 To develop a coin collection 2Din Unity 
 ### Algorithm:
